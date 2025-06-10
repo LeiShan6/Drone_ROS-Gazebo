@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@title: Offboard_Simulation
-@author: Lei Shan
-@date: June 9, 2025
-@description: Offboard control script for drone flight using ROS and MAVROS.
+Title: Offboard_Simulation
+Author: Lei Shan
+Date: June 9, 2025
+Description: Offboard control script for drone flight using ROS and MAVROS.
 """
 
 import rospy
